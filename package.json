@@ -1,0 +1,22 @@
+{
+  "name": "webform",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nw/webform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nw/webform/issues"
+  },
+  "homepage": "https://github.com/nw/webform",
+  "keywords": [],
+  "author": "Nathan White <nw@nwhite.net> (http://nwhite.net)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.15.0",
+    "express": "~4.13.4",
+    "jade": "~1.11.0"
+  }
+}
